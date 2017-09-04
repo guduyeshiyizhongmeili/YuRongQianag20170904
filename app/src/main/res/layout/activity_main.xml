@@ -11,6 +11,16 @@
         android:text="改变颜色"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/jia"
+        android:text="加速"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/jian"
+        android:text="减速"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 
 
     <com.bwie.test.MyView
